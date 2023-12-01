@@ -1,0 +1,174 @@
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\Reception.exe.config
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\Reception.exe
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\Reception.pdb
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\Google.Protobuf.dll
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\MySql.Data.dll
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\System.Buffers.dll
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\System.Memory.dll
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\System.Numerics.Vectors.dll
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\ZstdNet.dll
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\Google.Protobuf.pdb
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\Google.Protobuf.xml
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\MySql.Data.xml
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\System.Buffers.xml
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\System.Memory.xml
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\System.Numerics.Vectors.xml
+C:\Users\abdel\source\repos\Reception\Reception\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\abdel\source\repos\Reception\Reception\obj\Release\Reception.csprojAssemblyReference.cache
+C:\Users\abdel\source\repos\Reception\Reception\obj\Release\Reception.ajouter_patient.resources
+C:\Users\abdel\source\repos\Reception\Reception\obj\Release\Reception.acceuille.resources
+C:\Users\abdel\source\repos\Reception\Reception\obj\Release\Reception.ajouter_rendez_vous.resources
+C:\Users\abdel\source\repos\Reception\Reception\obj\Release\Reception.link_database.resources
+C:\Users\abdel\source\repos\Reception\Reception\obj\Release\Reception.modifier_patient.resources
+C:\Users\abdel\source\repos\Reception\Reception\obj\Release\Reception.Properties.Resources.resources
+C:\Users\abdel\source\repos\Reception\Reception\obj\Release\Reception.rendez_vous.resources
+C:\Users\abdel\source\repos\Reception\Reception\obj\Release\Reception.csproj.GenerateResource.cache
+C:\Users\abdel\source\repos\Reception\Reception\obj\Release\Reception.csproj.CoreCompileInputs.cache
+C:\Users\abdel\source\repos\Reception\Reception\obj\Release\Reception.csproj.CopyComplete
+C:\Users\abdel\source\repos\Reception\Reception\obj\Release\Reception.exe
+C:\Users\abdel\source\repos\Reception\Reception\obj\Release\Reception.pdb
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\Reception.exe.config
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\Reception.exe
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\Reception.pdb
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\Microsoft.Win32.Primitives.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\netstandard.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.AppContext.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Collections.Concurrent.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Collections.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Collections.NonGeneric.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Collections.Specialized.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.ComponentModel.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.ComponentModel.EventBasedAsync.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.ComponentModel.Primitives.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.ComponentModel.TypeConverter.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Console.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Data.Common.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Diagnostics.Contracts.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Diagnostics.Debug.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Diagnostics.Process.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Diagnostics.StackTrace.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Diagnostics.Tools.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Diagnostics.TraceSource.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Diagnostics.Tracing.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Drawing.Primitives.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Dynamic.Runtime.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Globalization.Calendars.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Globalization.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Globalization.Extensions.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.IO.Compression.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.IO.Compression.ZipFile.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.IO.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.IO.FileSystem.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.IO.FileSystem.DriveInfo.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.IO.FileSystem.Primitives.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.IO.FileSystem.Watcher.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.IO.IsolatedStorage.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.IO.MemoryMappedFiles.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.IO.Pipes.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.IO.UnmanagedMemoryStream.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Linq.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Linq.Expressions.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Linq.Parallel.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Linq.Queryable.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Net.Http.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Net.NameResolution.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Net.NetworkInformation.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Net.Ping.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Net.Primitives.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Net.Requests.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Net.Security.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Net.Sockets.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Net.WebHeaderCollection.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Net.WebSockets.Client.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Net.WebSockets.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.ObjectModel.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Reflection.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Reflection.Extensions.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Reflection.Primitives.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Resources.Reader.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Resources.ResourceManager.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Resources.Writer.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Runtime.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Runtime.Extensions.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Runtime.Handles.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Runtime.InteropServices.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Runtime.Numerics.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Runtime.Serialization.Formatters.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Runtime.Serialization.Json.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Runtime.Serialization.Primitives.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Runtime.Serialization.Xml.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Security.Claims.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Security.Cryptography.Algorithms.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Security.Cryptography.Csp.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Security.Cryptography.Encoding.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Security.Cryptography.Primitives.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Security.Principal.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Security.SecureString.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Text.Encoding.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Text.Encoding.Extensions.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Text.RegularExpressions.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Threading.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Threading.Overlapped.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Threading.Tasks.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Threading.Tasks.Parallel.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Threading.Thread.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Threading.ThreadPool.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Threading.Timer.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.ValueTuple.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Xml.ReaderWriter.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Xml.XDocument.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Xml.XmlDocument.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Xml.XmlSerializer.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Xml.XPath.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Xml.XPath.XDocument.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\BouncyCastle.Crypto.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\Google.Protobuf.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\K4os.Compression.LZ4.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\K4os.Hash.xxHash.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\MySql.Data.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\MySqlBackup.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Buffers.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Memory.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Numerics.Vectors.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\ZstdNet.dll
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\BouncyCastle.Crypto.xml
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\Google.Protobuf.pdb
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\Google.Protobuf.xml
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\K4os.Compression.LZ4.xml
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\K4os.Hash.xxHash.xml
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\MySql.Data.xml
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Buffers.xml
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Memory.xml
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Numerics.Vectors.xml
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\obj\Release\Reception.csprojAssemblyReference.cache
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\obj\Release\Reception.exe.config
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\obj\Release\Reception.ajouter_patient.resources
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\obj\Release\Reception.acceuille.resources
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\obj\Release\Reception.ajouter_rendez_vous.resources
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\obj\Release\Reception.link_database.resources
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\obj\Release\Reception.modifier_patient.resources
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\obj\Release\Reception.Properties.Resources.resources
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\obj\Release\Reception.rendez_vous.resources
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\obj\Release\Reception.csproj.GenerateResource.cache
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\obj\Release\Reception.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\obj\Release\Reception.csproj.CopyComplete
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\obj\Release\Reception.exe
+D:\Projects\C# Projects\Gestionnaire des Ordonnances\Reception\Reception\obj\Release\Reception.pdb
