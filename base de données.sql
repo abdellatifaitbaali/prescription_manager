@@ -14,6 +14,18 @@ CREATE TABLE IF NOT EXISTS `analyses` (
   `analyse` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+CREATE TABLE IF NOT EXISTS `patient` (
+  `idP` int(11) NOT NULL AUTO_INCREMENT,
+  `cin` varchar(20) NOT NULL,
+  `nom` varchar(30) NOT NULL,
+  `sexe` varchar(20) NOT NULL,
+  `num` varchar(12) NOT NULL,
+  `age` varchar(10) NOT NULL,
+  `ville` varchar(20) NOT NULL,
+  `mutuelle` varchar(20) NOT NULL,
+  PRIMARY KEY (`idP`)
+) ENGINE=InnoDB AUTO_INCREMENT=17 DEFAULT CHARSET=utf8mb4;
+
 CREATE TABLE IF NOT EXISTS `controle` (
   `idC` int(11) NOT NULL AUTO_INCREMENT,
   `date_Controle` varchar(20) NOT NULL,
@@ -38,17 +50,6 @@ CREATE TABLE IF NOT EXISTS `mutuelles` (
   `mutuelle` varchar(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
-CREATE TABLE IF NOT EXISTS `patient` (
-  `idP` int(11) NOT NULL AUTO_INCREMENT,
-  `cin` varchar(20) NOT NULL,
-  `nom` varchar(30) NOT NULL,
-  `sexe` varchar(20) NOT NULL,
-  `num` varchar(12) NOT NULL,
-  `age` varchar(10) NOT NULL,
-  `ville` varchar(20) NOT NULL,
-  `mutuelle` varchar(20) NOT NULL,
-  PRIMARY KEY (`idP`)
-) ENGINE=InnoDB AUTO_INCREMENT=17 DEFAULT CHARSET=utf8mb4;
 
 CREATE TABLE IF NOT EXISTS `rendezvous` (
   `idR` int(11) NOT NULL AUTO_INCREMENT,
